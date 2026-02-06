@@ -1,1 +1,1 @@
-print('Hello from new_file')
+print('Hello from new_feature branch')
